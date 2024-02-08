@@ -1,0 +1,28 @@
+Nin: 2
+activation: tanh
+epochs: 100
+learning_rate: 0.1
+max_val: 10.0
+min_val: 0.0
+weights:
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    0ZMPObD17z8=
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    e8DgyYsD8D8=
