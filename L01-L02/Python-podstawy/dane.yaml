@@ -1,0 +1,10 @@
+lista:
+- 1
+- 42
+- 3.141
+- tekst
+- €
+napis: bla
+slownik:
+  foo: bar
+  sens życia: 44
